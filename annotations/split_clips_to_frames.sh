@@ -9,7 +9,8 @@ FRAMES_DIR=images  #path to the directory for frames
 ################################################################
 
 
-for set_dir in set01 set02 set03 set04 set05 set06
+#for set_dir in set01 set02 set03 set04 set05 set06
+for set_dir in set02
 do
     for video in ${CLIPS_DIR}/${set_dir}/*
     do
