@@ -1,0 +1,13 @@
+# Ignorer les fichiers binaires de Git LFS (ajuste en fonction de tes besoins)
+*.mp4
+*.png
+*.zip
+
+# Ignorer les fichiers temporaires générés par l'éditeur
+.idea/
+.vscode/
+
+# Ignorer les fichiers de cache et temporaires de système
+*~
+.DS_Store
+Thumbs.db
